@@ -1,0 +1,7 @@
+<code>
+            git add .
+            git commit -m"texto xx"
+            git status
+            git log
+            git checkout 123456 /* 6primeiros numeros commit*/
+        </code>
